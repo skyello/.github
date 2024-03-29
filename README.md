@@ -2,11 +2,11 @@
 
 ## About Us
 
-We are a startup automating enterprise robots through ML and LLMs. Our mission is to use LLMs and Function Calling to APIs and other communication systems to automate and enhance the capabilities of enterprise robots. By pushing the boundaries of natural language processing and seamless integration with existing systems, we aim to redefine the role of robots in streamlining business processes and improving efficiency.
+We are a startup that automates enterprise robots using machine learning and large language models. We aim to enhance robot capabilities by integrating natural language processing with existing systems to improve business processes and efficiency.
 
 ## Our Structure
 
-Our codebase follows a monorepo structure internally. Certain aspects of the work we do will be open-sourced as time goes on.
+We use a monorepo structure for our codebase. We plan to open-source certain aspects of our work in the future.
 
 ## Contact Information
 
@@ -14,9 +14,9 @@ For any questions, concerns, or to explore potential collaborations, feel free t
 
 - CTO: [yusuf@skyello.com](mailto:yusuf@skyello.com)
 
-If you are interested in working with us, please send evidence of exceptional ability to [yusuf@skyello.com](mailto:yusuf@skyello.com) and [tseward@skyello.com](mailto:tseward@skyello.com).
+If you are interested in joining our team, send evidence of exceptional ability to [yusuf@skyello.com](mailto:yusuf@skyello.com) and [tseward@skyello.com](mailto:tseward@skyello.com).
 
-We are looking at creating an online community for discussion in the near future.
+We plan to create an online community for discussion soon.
 
 ---
 
